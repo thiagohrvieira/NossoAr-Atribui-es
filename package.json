@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/thiagohrvieira/NossoAr-Atribui-es/issues"
   },
-  "homepage": "https://github.com/thiagohrvieira/NossoAr-Atribui-es#readme"
+  "homepage": "https://github.com/thiagohrvieira/NossoAr-Atribui-es#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
 }
