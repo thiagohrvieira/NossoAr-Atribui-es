@@ -1,0 +1,21 @@
+{
+  "name": "nossoar",
+  "description": "\"# NossoAr-Atribui-es\"",
+  "main": "index.js",
+  "authors": [
+    "Thiago <thiago.hrvieira@outlook.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/thiagohrvieira/NossoAr-Atribui-es",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
